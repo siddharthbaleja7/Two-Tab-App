@@ -27,4 +27,3 @@ The project is split into two main parts:
 1. **Rust** (for building the WASM package)
 2. **Node.js** and **npm** (for React app and frontend dependencies)
 3. **Elixir** and **Phoenix** (for the backend)# Two-Tab-App
-# Two-Tab-App
