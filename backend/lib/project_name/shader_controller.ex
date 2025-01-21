@@ -9,8 +9,7 @@ defmodule ProjectName.ShaderController do
   end
 
   defp fetch_shader_from_llm(description) do
-    # Here, you would interact with an LLM API to generate shader code based on user input.
-    # For simplicity, we're just returning a mock shader.
+    # Here, LLM interaction will happen, for now we are returning mock shader.
     """
     void main() {
       gl_FragColor = vec4(0.0, 1.0, 0.0, 1.0);
